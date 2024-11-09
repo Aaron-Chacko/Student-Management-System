@@ -42,12 +42,13 @@ for persistent data storage.
 searching for students, and generating reports
 
 ## Modules of the proposed work
-1.student.py
+### student.py
 • Add Students
 • Delete Students
 • Update Students
 • Display student's details
-2. fees.py
+
+### fees.py
 • Payment Details
 • Pending Fees
 • Total fees
